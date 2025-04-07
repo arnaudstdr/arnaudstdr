@@ -21,7 +21,7 @@
 | Project | Description |
 |--------|-------------|
 | [`agent_veille_ai`](https://github.com/arnaudstdr/agent_veille_ai) | Automated AI news agent using LLMs, scraping + summarization |
-| [`calories_predictor`](https://github.com/arnaudstdr/calories_predictor) | Calorie prediction for cycling using ML + Streamlit app |
+| [`ml_calories_burned_predictor`](https://github.com/arnaudstdr/calories_predictor) | Calorie prediction for cycling using ML + Streamlit app |
 | [`tweet_sentiment_analysis`](https://github.com/arnaudstdr/tweet_sentiment_analysis) | Tweet sentiment analysis with NLP and deep learning |
 | [`flowmodoro`](https://github.com/arnaudstdr/flowmodoro) | Pomodoro-style time management app with custom flow |
 | [`films_reco`](https://github.com/arnaudstdr/films_reco) | Movie recommendation system using similarity models |
