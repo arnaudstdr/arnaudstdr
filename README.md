@@ -36,7 +36,7 @@ Based in **Strasbourg (France)**, I'm open to:
 - connecting around career switch, ethical AI and robotics
 
 📫 Reach me at:
-- [mail](arnaud.stadler@ikmail.com)
+- Mail : arnaud.stadler@ikmail.com
 - [X / Twitter](https://twitter.com/ArnaudS82422)
 - [LinkedIn](https://www.linkedin.com/in/arnaud-stadler-89a2322ba/)
 
