@@ -1,42 +1,42 @@
-# 👋 Hi, I'm Arnaud – ML/MLOps builder switching careers
+# Hi, I'm Arnaud 👋
 
-🎯 I'm intensively training in Machine Learning, AI, and MLOps to build useful, real-world tools that go beyond notebooks.
-
-🚀 I share my journey, projects, and experiments in public. My goal: become a production-ready AI Engineer who can go from concept to deployment, from model to real impact.
-
----
-
-### 🔧 Skills & Stack
-
-- **Languages:** Python, SQL, HTML/CSS, JS (basics)
-- **ML/AI:** Scikit-learn, Pandas, XGBoost, NLP, LLMs (OpenAI, Gemini)
-- **MLOps:** Vertex AI, MLflow, DVC, GitHub Actions, Docker
-- **Deployment:** FastAPI, Streamlit, Gradio
-- **Tools:** Git, Notion, VS Code, GCP, LangChain
+🎯 Currently available for freelance missions in **MLOps** and **Python development**  
+🚀 I design and deploy full-stack ML systems — from data scraping and preprocessing to training, deployment, and automation.
 
 ---
 
-### 🧠 Recent Projects
+## 🧠 What I do
 
-| Project | Description |
-|--------|-------------|
-| [`agent_veille_ai`](https://github.com/arnaudstdr/agent_veille_ai) | Automated AI news agent using LLMs, scraping + summarization |
-| [`ml_calories_burned_predictor`](https://github.com/arnaudstdr/calories_predictor) | Calorie prediction for cycling using ML + Streamlit app |
-| [`tweet_sentiment_analysis`](https://github.com/arnaudstdr/tweet_sentiment_analysis) | Tweet sentiment analysis with NLP and deep learning |
-| [`flowmodoro`](https://github.com/arnaudstdr/flowmodoro) | Pomodoro-style time management app with custom flow |
-| [`films_reco`](https://github.com/arnaudstdr/films_reco) | Movie recommendation system using similarity models |
+I'm an engineer with 12+ years of experience in industry, now fully focused on **Machine Learning** and **MLOps**, with a strong result-driven mindset.
+
+I build end-to-end AI solutions using:
+- **MLflow, Vertex AI, Docker, FastAPI, Streamlit, Gradio**
+- **LangChain & OpenAI** to create smart AI agents
+- **CI/CD pipelines with GitHub Actions**
 
 ---
 
-### 📍 About me
+## 🛠️ My freelance services
 
-Based in **Strasbourg (France)**, I'm open to:
-- freelance missions in Python / ML / MLOps
-- open-source AI collaborations
-- connecting around career switch, ethical AI and robotics
+- 🌐 Deploying ML models (API + Docker + GCP, MLflow, CI/CD)
+- 🤖 Building custom AI agents (OpenAI, LangChain, scraping + summarization)
+- 📊 Creating interactive dashboards (Streamlit, Gradio, FastAPI)
+- 🔁 Automating ML workflows & MLOps pipelines (training, monitoring, versioning)
 
-📫 Reach me at:
-- Mail : arnaud.stadler@ikmail.com
+---
+
+## 👨‍💻 Tech I'm comfortable with
+
+`Python` • `Docker` • `GCP` • `MLflow` • `FastAPI` • `LangChain` • `Streamlit` • `GitHub Actions`  
+(+ a good dose of curiosity and pragmatism 😄)
+
+---
+
+## 📍 Based in Strasbourg – Working 100% remote
+
+Feel free to check my pinned projects or reach out if you have a project in mind!
+
+- [📫 Contact me](mailto:arnaud.stadler@ikmail.com)
 - [X / Twitter](https://twitter.com/ArnaudS82422)
 - [LinkedIn](https://www.linkedin.com/in/arnaud-stadler-89a2322ba/)
 
