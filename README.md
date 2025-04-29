@@ -7,7 +7,7 @@
 
 ## 🧠 What I do
 
-I'm an engineer with 12+ years of experience in industry, now fully focused on **Machine Learning** and **MLOps**, with a strong result-driven mindset.
+After 12 years in industry solving complex technical challenges, I now build smart ML systems with a strong delivery mindset.
 
 I build end-to-end AI solutions using:
 - **MLflow, Vertex AI, Docker, FastAPI, Streamlit, Gradio**
