@@ -10,7 +10,7 @@
 After 12 years in industry solving complex technical challenges, I now build smart ML systems with a strong delivery mindset.
 
 I build end-to-end AI solutions using:
-- **MLflow, Vertex AI, Docker, FastAPI, Streamlit, Gradio**
+- **MLflow, Vertex AI, Docker, Kubernetes, FastAPI, Streamlit, Gradio**
 - **LangChain & OpenAI** to create smart AI agents
 - **CI/CD pipelines with GitHub Actions**
 
@@ -27,7 +27,7 @@ I build end-to-end AI solutions using:
 
 ## 👨‍💻 Tech I'm comfortable with
 
-`Python` • `Docker` • `GCP` • `MLflow` • `FastAPI` • `LangChain` • `Streamlit` • `GitHub Actions`  
+`Python` • `Docker` • `Kubernetes` •`GCP` • `MLflow` • `FastAPI` • `LangChain` • `Streamlit` • `GitHub Actions`  
 (+ a good dose of curiosity and pragmatism 😄)
 
 ---
