@@ -1,6 +1,8 @@
+<a href="https://app.daily.dev/arnaudstdr"><img src="https://api.daily.dev/devcards/v2/M8Bv9CJQ1i8yCi83mjzT4.png?type=wide&r=6vr" width="652" alt="Arnaud Stadler's Dev Card"/></a>
+
 # Hi, I'm Arnaud 👋
 
-🎯 Currently available for freelance missions in **MLOps** and **Python development**  
+🎯 Currently available for missions in **Python development**, **Machine Learning development** and **MLOps**
 🚀 I design and deploy full-stack ML systems — from data scraping and preprocessing to training, deployment, and automation.
 
 ---
@@ -37,8 +39,8 @@ I build end-to-end AI solutions using:
 Feel free to check my pinned projects or reach out if you have a project in mind!
 
 - [📫 Contact me](mailto:arnaud.stadler@ikmail.com)
-- [X / Twitter](https://twitter.com/ArnaudS82422)
 - [LinkedIn](https://www.linkedin.com/in/arnaud-stadler-89a2322ba/)
+- [X / Twitter](https://twitter.com/ArnaudS82422)
 
 ---
 
